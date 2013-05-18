@@ -1,3 +1,4 @@
+blanch has launched once again
 
 Please also update your PATH environment variable to
 include the platform-tools/ directory, so you can
