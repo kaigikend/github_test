@@ -1,4 +1,3 @@
-4は2から分岐
 
 Please also update your PATH environment variable to
 include the platform-tools/ directory, so you can
